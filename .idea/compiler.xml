@@ -8,12 +8,18 @@
         <outputRelativeToContentRoot value="true" />
         <module name="taotao-common" />
         <module name="taotao-maneger-dao" />
+        <module name="taotao-maneger-service" />
+        <module name="taotao-maneger-web" />
+        <module name="taotao-manerger-pojo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="taotao-common" target="1.7" />
-      <module name="taotao-maneger-dao" target="1.5" />
+      <module name="taotao-maneger-dao" target="1.7" />
       <module name="taotao-maneger-pojo" target="1.7" />
+      <module name="taotao-maneger-service" target="1.7" />
+      <module name="taotao-maneger-web" target="1.7" />
+      <module name="taotao-manerger-pojo" target="1.7" />
       <module name="taotao-manneger" target="1.7" />
       <module name="taotaoparent" target="1.7" />
     </bytecodeTargetLevel>

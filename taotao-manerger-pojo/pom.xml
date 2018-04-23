@@ -10,7 +10,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>taotao-manerger-pojo</artifactId>
-
+    <groupId>com.taotao</groupId>
+    <artifactId>taotao-manager-pojo</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
 
 </project>
