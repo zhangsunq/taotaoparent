@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../taotaoparent/taotao-common/taotao-common.iml" filepath="$PROJECT_DIR$/../taotaoparent/taotao-common/taotao-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taotaoparent/taotao-maneger-dao/taotao-maneger-dao.iml" filepath="$PROJECT_DIR$/../taotaoparent/taotao-maneger-dao/taotao-maneger-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taotaoparent/taotao-maneger-service/taotao-maneger-service.iml" filepath="$PROJECT_DIR$/../taotaoparent/taotao-maneger-service/taotao-maneger-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taotaoparent/taotao-maneger-web/taotao-maneger-web.iml" filepath="$PROJECT_DIR$/../taotaoparent/taotao-maneger-web/taotao-maneger-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taotaoparent/taotao-manerger-pojo/taotao-manerger-pojo.iml" filepath="$PROJECT_DIR$/../taotaoparent/taotao-manerger-pojo/taotao-manerger-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taotaoparent/taotao-manneger/taotao-manneger.iml" filepath="$PROJECT_DIR$/../taotaoparent/taotao-manneger/taotao-manneger.iml" />
       <module fileurl="file://$PROJECT_DIR$/taotaoparent.iml" filepath="$PROJECT_DIR$/taotaoparent.iml" />
     </modules>
   </component>

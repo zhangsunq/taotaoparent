@@ -2,5 +2,8 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/../taotaoparent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../taotaoparent/taotao-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../taotaoparent/taotao-maneger-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../taotaoparent/taotao-manneger" charset="UTF-8" />
   </component>
 </project>
